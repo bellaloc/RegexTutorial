@@ -13,13 +13,13 @@ Our journey will involve unraveling each part of this regex, comprehending its u
 
 ## Table of Contents
 
-- [Start of Line ^](#Start of Line ^)
+- [Start of Line ^] (#Start of Line ^)
 - [Username ([a-z0-9_\.-]+)](#Username ([a-z0-9_\.-]+))
-- [At Symbol @](#At Symbol @)
+- [At Symbol @] (#At Symbol @)
 - [Domain ([\da-z\.-]+)](#Domain ([\da-z\.-]+))
 - [Dot (.)](#Dot (.))
-- [Top-Level Domain ([a-z\.]{2,6})](#Top-Level Domain ([a-z\.]{2,6}))
-- [End of Line $](#End of Line dollar sign)
+- [Top-Level Domain ([a-z\.]{2,6})] (#Top-Level Domain ([a-z\.]{2,6}))
+- [End of Line $] (#End of Line dollar sign)
 - [Author](#Author)
 
 
